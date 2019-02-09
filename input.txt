@@ -1,0 +1,12 @@
+a = 5
+b = 6
+
+if(a==b):
+    print("x")
+elif(a!=b):
+    print('z')
+else:
+    print("y")
+
+
+    for i in x:
